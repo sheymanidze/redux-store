@@ -9,13 +9,17 @@
  * [Deployment of application](#Deployment-of-application)
  * [Application Code](#Application-Code)
  * [Screenshots](#Screenshots)
- * [Future Developments](#Future-Developments)
+
 
 
  # General Info
 
+   Redux-store is an aplication that allows user to view, add to cart and purchase products.
+
 
  # Specifics
+   
+   E-commerce platform was refactored.  Context API was replaced with React Redux Store.
 
 
  # Deployment of application
@@ -38,4 +42,3 @@
    ![]()
 
 
- # Future Developments
