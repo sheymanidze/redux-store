@@ -39,6 +39,20 @@
 
  # Screenshots
 
-   ![]()
+   Homepage after login
+
+   ![Homepage](/client/public/img/1.png)
+
+   Product Details
+
+   ![Details](/client/public/img/2.png)
+
+   Product after "add to cart"
+
+   ![Add to cart](/client/public/img/3.png)
+
+   Checkout
+
+   ![Checkout](/client/public/img/4.png)
 
 
