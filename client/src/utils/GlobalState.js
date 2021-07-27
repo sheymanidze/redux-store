@@ -3,7 +3,6 @@ import { Provider } from 'react-redux';
 import store from './store';
 
 const StoreContext = createContext();
-// const { Provider } = StoreContext;
 
 const StoreProvider = ({ ...props }) => {
  
